@@ -3,12 +3,12 @@
     "name": "The Met Museum ART Search",
     "live": "https://sealproject1-sigma.vercel.app/",
     "git": "https://github.com/uliaarkadz/sealproject1.git",
-    "image": "./img/project1"
+    "image": "https://i.imgur.com/YZdGElJ.png"
   },
   {
     "name": "My Running App",
     "live": "https://yb-seal-project-2.onrender.com/user/signup",
     "git": "https://github.com/uliaarkadz/sealproject2.git",
-    "image": "./img/project2"
+    "image": "https://i.imgur.com/NEaAq7v.png"
   }
 ]
